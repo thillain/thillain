@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I code for living, believe it or not. I have been in github from 2008 onwards, earlier as Ruby on Rails contributor and later spent some time and have repos more into DSA on javascripts and took a break. 
+
+Currently focused on scalable system design, distributed architectures, and intelligent automation platforms.
+
 <!--
 **thillain/thillain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
